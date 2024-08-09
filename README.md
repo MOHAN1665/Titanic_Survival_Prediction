@@ -26,9 +26,10 @@
 
 2. **Install Required Packages**
 Ensure you have the following Python packages installed:
-  **pip install flask scikit-learn pandas numpy ngrok**
+   ```bash 
+   pip install flask scikit-learn pandas numpy ngrok
 
-3. **Start the Flask Application**
+4. **Start the Flask Application**
    Open Titanic_Survival_Prediction.ipynb in Jupyter Notebook.
    Run the cells to train the model and start the Flask application.
    The notebook integrates ngrok to expose the Flask app with a public URL.
