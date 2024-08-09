@@ -36,27 +36,27 @@ Ensure you have the following Python packages installed:
 
 4. **Start the Flask Application**
    
-   - Open Titanic_Survival_Prediction.ipynb in Jupyter Notebook.
-   - Run the cells to train the model and start the Flask application.
-   - The notebook integrates ngrok to expose the Flask app with a public URL.
+- Open Titanic_Survival_Prediction.ipynb in Jupyter Notebook.
+- Run the cells to train the model and start the Flask application.
+- The notebook integrates ngrok to expose the Flask app with a public URL.
 
 ## Running the Application
-Execute the notebook cells to train the model and run the Flask app.
-The notebook will display a public URL from ngrok where you can access the web application.
+- Execute the notebook cells to train the model and run the Flask app.
+- The notebook will display a public URL from ngrok where you can access the web application.
 
 ## Accessing the Application
 Open the provided ngrok URL in your web browser to interact with the Titanic survival prediction app.
 
 ## Technologies Used
-Jupyter Notebook
-Flask (for web application)
-scikit-learn (for machine learning)
-pandas (for data manipulation)
-ngrok (for exposing the local server)
+- Jupyter Notebook
+- Flask (for web application)
+- scikit-learn (for machine learning)
+- pandas (for data manipulation)
+-ngrok (for exposing the local server)
 
 ## Notes
-The Flask application and model training are integrated within the Jupyter Notebook for ease of use.
-Ensure you have a stable internet connection for ngrok to work properly.
+- The Flask application and model training are integrated within the Jupyter Notebook for ease of use.
+- Ensure you have a stable internet connection for ngrok to work properly.
 
 ## Example Outputs
 
