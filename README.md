@@ -57,6 +57,11 @@ ngrok (for exposing the local server)
 The Flask application and model training are integrated within the Jupyter Notebook for ease of use.
 Ensure you have a stable internet connection for ngrok to work properly.
 
+## Example Outputs
+
+![Positive Response](images/Output_1.jpg)
+![Negative Response](images/Output_0.jpg)
+
 ## Contributors
 - [MOHAN1665](https://github.com/MOHAN1665)
 
