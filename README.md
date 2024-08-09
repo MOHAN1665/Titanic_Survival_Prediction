@@ -10,7 +10,7 @@ Here is the structure of the project directory:
       Titanic_Survival_Prediction/
    ├── Titanic_Survival_Prediction.ipynb
    └── dataset/
-   └── titanic_data.csv
+   └── train.csv
 ```
 - `Titanic_Survival_Prediction.ipynb`: Jupyter Notebook containing the entire codebase including data preprocessing, model training, Flask app implementation, and ngrok integration.
 - `dataset/titanic_data.csv`: Dataset used for training the model.
