@@ -3,9 +3,13 @@
 **Project Overview**: This project provides a web application for predicting Titanic survival chances using a machine learning model. The application is built using Flask, with the entire implementation and model training conducted within a Jupyter Notebook.
 
 ## Project Structure
-├── Titanic_Survival_Prediction.ipynb
-└── dataset/
-└── train.csv
+
+Here is the structure of the project directory:
+
+      Titanic_Survival_Prediction/
+   ├── Titanic_Survival_Prediction.ipynb
+   └── dataset/
+   └── titanic_data.csv
 
 - `Titanic_Survival_Prediction.ipynb`: Jupyter Notebook containing the entire codebase including data preprocessing, model training, Flask app implementation, and ngrok integration.
 - `dataset/titanic_data.csv`: Dataset used for training the model.
