@@ -52,7 +52,7 @@ Open the provided ngrok URL in your web browser to interact with the Titanic sur
 - Flask (for web application)
 - scikit-learn (for machine learning)
 - pandas (for data manipulation)
--ngrok (for exposing the local server)
+- ngrok (for exposing the local server)
 
 ## Notes
 - The Flask application and model training are integrated within the Jupyter Notebook for ease of use.
