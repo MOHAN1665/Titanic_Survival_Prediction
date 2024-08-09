@@ -1,7 +1,5 @@
 # Titanic Survival Prediction
 
-![Titanic Survival Prediction]([https://example.com/path/to/preview-image.jpg](https://icon-library.com/images/2018/3928338_titanic-titanic-se-2-dvd-transparent-png.png))
-
 **Project Overview**: This project provides a web application for predicting Titanic survival chances using a machine learning model. The application is built using Flask, with the entire implementation and model training conducted within a Jupyter Notebook.
 
 ## Project Structure
