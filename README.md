@@ -62,7 +62,7 @@ Open the provided ngrok URL in your web browser to interact with the Titanic sur
 
 <p align="center">
   <img src="images/Output_1.jpg" alt="Positive Response" width="45%" style="margin-right: 10px;"/>
-  <img src="images/Output_0.jpg" alt="Negative Response" width="45%" style="height: 312px;"/>
+  <img src="images/Output_0.jpg" alt="Negative Response" width="45%" style="height: 313px;"/>
 </p>
 
 
